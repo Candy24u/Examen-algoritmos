@@ -1,0 +1,19 @@
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.csprojAssemblyReference.cache
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.AssemblyInfoInputs.cache
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.AssemblyInfo.cs
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.exe
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.deps.json
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.runtimeconfig.json
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.runtimeconfig.dev.json
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\ref\Agente 1.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Agente 1.pdb
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Experimental.System.Messaging.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.csproj.CopyComplete
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\ref\Agente 1.dll
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.pdb
+C:\Users\Jazmi\Documents\Examen algoritmos\Agente 1\obj\Debug\net5.0\Agente 1.genruntimeconfig.cache

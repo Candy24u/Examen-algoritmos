@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJgZphGuw/pyhVTbiOHW0w9RifLNkRm9XGvRhSevRYh1w0WtJ6C4J0oxddDbJkP7L8Tv8vFLeT7VQBJ26fzUwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jazmi\\Documents\\Examen algoritmos\\Agente 1\\Agente 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jazmi\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jazmi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
